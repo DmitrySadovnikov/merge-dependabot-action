@@ -1,0 +1,6 @@
+name: "Merge Dependabot Action"
+description: "Github Action to merger pull requests from dependabot"
+author: "DmitrySadovnikov"
+runs:
+  using: "docker"
+  image: "Dockerfile"

@@ -1,4 +1,4 @@
-## Github Action to merger pull requests from dependabot
+## Github Action to merge pull requests from dependabot
 
 ### Setup
 
